@@ -6,11 +6,9 @@
 #    By: jllarena <jllarena@student.42urduliz.co    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/01/29 16:53:20 by jllarena          #+#    #+#              #
-#    Updated: 2024/01/29 16:53:21 by jllarena         ###   ########.fr        #
+#    Updated: 2024/02/02 12:34:40 by jllarena         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
-
-
 
 NAME = so_long
 
